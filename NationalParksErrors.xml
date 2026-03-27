@@ -1,8 +1,10 @@
-<NationalPark>
+<NationalPark 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 
   <NationalPark>
     <Name>Grand Canyon</Name>
-    <Name>Duplicate</Name>
+    <Name>Duplicate Name</Name>
 
     <Address>
       <Number>8</Number>
