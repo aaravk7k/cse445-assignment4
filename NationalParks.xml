@@ -4,7 +4,6 @@
 
   <NationalPark>
     <Name>Grand Canyon</Name>
-    <Rating>4.9</Rating>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
     <Address NearestAirport="Flagstaff">
@@ -14,6 +13,7 @@
       <State>AZ</State>
       <Zip>86023</Zip>
     </Address>
+    <Rating>4.9</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -30,7 +30,6 @@
 
   <NationalPark>
     <Name>Yosemite</Name>
-    <Rating>4.8</Rating>
     <Phone>209-372-0200</Phone>
     <Address NearestAirport="Fresno">
       <Number>9035</Number>
@@ -39,6 +38,7 @@
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
+    <Rating>4.8</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -55,7 +55,6 @@
 
   <NationalPark>
     <Name>Rocky Mountain</Name>
-    <Rating>4.7</Rating>
     <Phone>970-586-1206</Phone>
     <Address NearestAirport="Denver">
       <Number>1000</Number>
@@ -64,6 +63,7 @@
       <State>CO</State>
       <Zip>80517</Zip>
     </Address>
+    <Rating>4.7</Rating>
   </NationalPark>
 
   <NationalPark>
