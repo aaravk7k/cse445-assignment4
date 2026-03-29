@@ -6,16 +6,16 @@
     <xs:complexType>
       <xs:sequence>
 
-        <xs:element name="NationalPark" minOccurs="1" maxOccurs="unbounded">
+        <xs:element name="NationalPark" maxOccurs="unbounded">
           <xs:complexType>
 
             <xs:sequence>
 
-              <xs:element name="Name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+              <xs:element name="Name" type="xs:string"/>
 
               <xs:element name="Phone" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
 
-              <xs:element name="Address" minOccurs="1" maxOccurs="1">
+              <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element name="Number" type="xs:string"/>
